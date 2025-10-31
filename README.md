@@ -11,7 +11,7 @@ My objective was to validate the original paper's findings by translating its St
 
 ---
 
-## 🛠️ Technical Stack & Methods
+## Technical Stack & Methods
 
 * **Programming Language:** R
 * **Key R Packages:**
