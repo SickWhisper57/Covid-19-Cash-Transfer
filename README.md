@@ -32,8 +32,8 @@ The analysis successfully replicated the paper's main conclusions.
 
 The cash transfer had a large, statistically significant positive effect on **Revenue** and a smaller, but still significant, positive effect on **Food Spend**. It had **no significant effect on Profit**.
 
-*(Drag and drop your **bar chart** image here. Make sure to rename the file `barchart.png`)*
-![Average Treatment Effects](bar chart.png)
+<img width="565" height="335" alt="bar chart" src="https://github.com/user-attachments/assets/de30882c-8507-412b-b383-6ffd28be2992" />
+
 
 ### 2. Dynamic Impact on Profit Over Time (Line Chart)
 
@@ -41,7 +41,7 @@ To see *why* profit wasn't affected, I ran an "event study" to check the effect 
 
 The results show that the effect on profit was **never statistically different from zero** in any period. The blue line (the effect) bounces around zero, and the error bars always overlap the zero line, confirming our first finding.
 
-*(Drag and drop your **line chart** image here. Make sure to rename the file `linechart.png`)*
-![Dynamic Treatment Effect on Profit](line chart.png)
+<img width="501" height="310" alt="line chart" src="https://github.com/user-attachments/assets/65baaddd-5167-474c-9bbc-c68910ed416b" />
+
 
 
