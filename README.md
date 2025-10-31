@@ -9,7 +9,7 @@ My objective was to validate the original paper's findings by translating its St
 * **Original Publication:** [https://www.sciencedirect.com/science/article/pii/S0304387822000840](url)
 * **Replication By:** Tanish Bhagat
 * 
-## 💡 Economic Context & Inspiration
+## Economic Context & Inspiration
 
 This project was inspired by a deep dive into the real-world application of econometrics, sparked by the **Money & Macro** YouTube video, "[Economists dropped $10M in rural Africa. It changed economic science forever.](https://www.youtube.com/watch?v=BD9kEHvXlGQ)"
 
