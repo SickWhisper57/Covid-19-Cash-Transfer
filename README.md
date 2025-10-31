@@ -13,7 +13,7 @@ My objective was to validate the original paper's findings by translating its St
 
 This project was inspired by a deep dive into the real-world application of econometrics, sparked by the **Money & Macro** YouTube video, "[Economists dropped $10M in rural Africa. It changed economic science forever.](https://www.youtube.com/watch?v=BD9kEHvXlGQ)"
 
-That video explored the **Keynesian Multiplier**—the macroeconomic theory that injecting cash (a fiscal stimulus) into an economy can boost total economic activity by *more* than the initial amount.
+That video explored the **[Keynesian Multiplier]([url](https://corporatefinanceinstitute.com/resources/economics/keynesian-multiplier/))**—the macroeconomic theory that injecting cash (a fiscal stimulus) into an economy can boost total economic activity by *more* than the initial amount.
 
 This project is a direct, micro-level test of that same theory. The cash transfer to businesses acts as a localized stimulus.
 * **The Theory in Practice:** By measuring the change in **Revenue**, we are observing the first-round effect of that stimulus.
