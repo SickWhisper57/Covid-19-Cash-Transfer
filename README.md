@@ -1,4 +1,4 @@
-# 🔬 Causal Impact Analysis: COVID-19 Cash Transfers on Small Businesses in Kenya
+#  Causal Impact Analysis: COVID-19 Cash Transfers on Small Businesses in Kenya
 
 ## Project Overview
 
@@ -6,8 +6,8 @@ This repository is an independent replication of the 2022 *Journal of Developmen
 
 My objective was to validate the original paper's findings by translating its Stata-based econometric methodology into a modern **R** workflow. The project successfully reproduces the causal impact of cash transfers on key business outcomes, demonstrating a strong understanding of data analysis and causal inference.
 
-* **Original Publication:** [Link to the Journal of Development Economics paper]
-* **Replication By:** [Your Full Name] | [Link to your LinkedIn Profile]
+* **Original Publication:** 
+* **Replication By:** Tanish Bhagat
 
 ---
 
@@ -24,7 +24,7 @@ My objective was to validate the original paper's findings by translating its St
 
 ---
 
-## 📊 Key Findings & Visualizations
+## Key Findings & Visualizations
 
 The analysis successfully replicated the paper's main conclusions.
 
