@@ -8,6 +8,7 @@ My objective was to validate the original paper's findings by translating its St
 
 * **Original Publication:** [https://www.sciencedirect.com/science/article/pii/S0304387822000840](url)
 * **Replication By:** Tanish Bhagat
+* **Project Inspiration:** This project was inspired by a deep dive into the real-world application of econometrics, sparked by the **Money & Macro** YouTube video, "[Economists dropped $10M in rural Africa. It changed economic science forever.](https://www.youtube.com/watch?v=BD9kEHvXlGQ)" While that video discussed a different (larger) study, it highlighted the power of using experimental data to measure the macroeconomic effects of aid.
 
 ---
 
@@ -42,6 +43,9 @@ To see *why* profit wasn't affected, I ran an "event study" to check the effect 
 The results show that the effect on profit was **never statistically different from zero** in any period. The blue line (the effect) bounces around zero, and the error bars always overlap the zero line, confirming our first finding.
 
 <img width="501" height="310" alt="line chart" src="https://github.com/user-attachments/assets/65baaddd-5167-474c-9bbc-c68910ed416b" />
+
+
+Inspiration for the 
 
 
 
