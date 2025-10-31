@@ -6,7 +6,7 @@ This repository is an independent replication of the 2022 *Journal of Developmen
 
 My objective was to validate the original paper's findings by translating its Stata-based econometric methodology into a modern **R** workflow. The project successfully reproduces the causal impact of cash transfers on key business outcomes, demonstrating a strong understanding of data analysis and causal inference.
 
-* **Original Publication:** 
+* **Original Publication:** [https://www.sciencedirect.com/science/article/pii/S0304387822000840](url)
 * **Replication By:** Tanish Bhagat
 
 ---
