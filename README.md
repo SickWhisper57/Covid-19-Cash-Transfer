@@ -8,8 +8,16 @@ My objective was to validate the original paper's findings by translating its St
 
 * **Original Publication:** [https://www.sciencedirect.com/science/article/pii/S0304387822000840](url)
 * **Replication By:** Tanish Bhagat
-* **Project Inspiration:** This project was inspired by a deep dive into the real-world application of econometrics, sparked by the **Money & Macro** YouTube video, "[Economists dropped $10M in rural Africa. It changed economic science forever.](https://www.youtube.com/watch?v=BD9kEHvXlGQ)" While that video discussed a different (larger) study, it highlighted the power of using experimental data to measure the macroeconomic effects of aid.
+* 
+## 💡 Economic Context & Inspiration
 
+This project was inspired by a deep dive into the real-world application of econometrics, sparked by the **Money & Macro** YouTube video, "[Economists dropped $10M in rural Africa. It changed economic science forever.](https://www.youtube.com/watch?v=BD9kEHvXlGQ)"
+
+That video explored the **Keynesian Multiplier**—the macroeconomic theory that injecting cash (a fiscal stimulus) into an economy can boost total economic activity by *more* than the initial amount.
+
+This project is a direct, micro-level test of that same theory. The cash transfer to businesses acts as a localized stimulus.
+* **The Theory in Practice:** By measuring the change in **Revenue**, we are observing the first-round effect of that stimulus.
+* **What My Findings Show:** The large, significant `+0.702` effect on **Revenue** strongly supports this. It shows the cash was not just saved but was immediately spent, generating new sales and economic activity in the community.
 ---
 
 ## Technical Stack & Methods
