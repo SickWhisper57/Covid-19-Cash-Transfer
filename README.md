@@ -44,8 +44,3 @@ The results show that the effect on profit was **never statistically different f
 
 <img width="501" height="310" alt="line chart" src="https://github.com/user-attachments/assets/65baaddd-5167-474c-9bbc-c68910ed416b" />
 
-
-Inspiration for the 
-
-
-
