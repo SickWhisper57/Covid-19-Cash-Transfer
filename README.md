@@ -33,7 +33,7 @@ The analysis successfully replicated the paper's main conclusions.
 The cash transfer had a large, statistically significant positive effect on **Revenue** and a smaller, but still significant, positive effect on **Food Spend**. It had **no significant effect on Profit**.
 
 *(Drag and drop your **bar chart** image here. Make sure to rename the file `barchart.png`)*
-![Average Treatment Effects](barchart.png)
+![Average Treatment Effects](bar chart.png)
 
 ### 2. Dynamic Impact on Profit Over Time (Line Chart)
 
@@ -42,21 +42,6 @@ To see *why* profit wasn't affected, I ran an "event study" to check the effect 
 The results show that the effect on profit was **never statistically different from zero** in any period. The blue line (the effect) bounces around zero, and the error bars always overlap the zero line, confirming our first finding.
 
 *(Drag and drop your **line chart** image here. Make sure to rename the file `linechart.png`)*
-![Dynamic Treatment Effect on Profit](linechart.png)
+![Dynamic Treatment Effect on Profit](line chart.png)
 
----
 
-## 🚀 How to Replicate This Project
-
-1.  **Clone the Repository:**
-    ```bash
-    git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
-    cd [Your-Repo-Name]
-    ```
-2.  **Open in RStudio:** Launch RStudio and open the `analysis.R` script.
-3.  **Run the Script:** Run `analysis.R` from top to bottom. It will:
-    * Install all necessary packages.
-    * Load and clean the `BDJO_Dataset.dta` file.
-    * Run both regressions.
-    * Save `results_for_excel.csv` (for the bar chart).
-    * Save `trends_for_excel.csv` (for the line chart).
